@@ -5,10 +5,12 @@ The input file contains an integer value N (0 < N < 1000000).
 
 Print the read number and the minimum quantity of each necessary banknotes in Portuguese language, as the given example. Do not forget to print the end of line after each line, otherwise you will receive “Presentation Error”.
 
-Input Sample	Output Sample
+Input Sample
 576
 
+Output Sample
 576
+
 5 nota(s) de R$ 100,00
 1 nota(s) de R$ 50,00
 1 nota(s) de R$ 20,00
@@ -17,9 +19,11 @@ Input Sample	Output Sample
 0 nota(s) de R$ 2,00
 1 nota(s) de R$ 1,00
 
+Input Sample
+11257
+Output Sample
 11257
 
-11257
 112 nota(s) de R$ 100,00
 1 nota(s) de R$ 50,00
 0 nota(s) de R$ 20,00
@@ -28,9 +32,12 @@ Input Sample	Output Sample
 1 nota(s) de R$ 2,00
 0 nota(s) de R$ 1,00
 
+Input Sample
 503
 
+Output Sample
 503
+
 5 nota(s) de R$ 100,00
 0 nota(s) de R$ 50,00
 0 nota(s) de R$ 20,00
